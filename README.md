@@ -1,9 +1,8 @@
 
-  <body>
-    <img src="p_G_0202.jpg" />
-  </body>
+# GARDENING GUIDE
+서울여자대학교 교양과목인[웹페이지저작기초] 과정을 수강하면서 만든 사이트입니다. 각박한 사회생활로 여유를 즐기지 못하는 현대 사회 사람들이 다양한 가드닝을 집에서 즐길 수 있도록 돕는다는 목표를 가지고 만들었습니다. <br />
+- **`Project duration` :** 2022.03.16 - 2022.06.16
+- **`Team members` :** 김시연
+- **`Link` :** [GG 방문하기](https://rlatldus.github.io/GG-plant/)
 
-
-![image](https://github.com/rlatldus/P_G_0202/assets/122216298/1e52729c-0f05-49ba-af3a-a7d88f3b63a3)
-
-![image](https://github.com/rlatldus/P_G_0202/assets/122216298/551db487-a184-4389-9946-a41be1016fec)
+![image](https://github.com/rlatldus/GG-plant/assets/122216298/8cdd39fe-85b8-4f9a-a0ec-1c8f03d00bfb)
