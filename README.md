@@ -6,5 +6,3 @@
 - **`Link` :** [GG 방문하기](https://rlatldus.github.io/GG-plant/)
 
 ![image](https://github.com/rlatldus/GG-plant/assets/122216298/8cdd39fe-85b8-4f9a-a0ec-1c8f03d00bfb)
-
-![image](https://github.com/rlatldus/GG-plant/assets/122216298/a03f594d-8e50-4439-8d9a-474562001ed7)
